@@ -1,0 +1,25 @@
+"C:\Users\Gandhali Shastri\venv\Scripts\python.exe" "C:/Users/Gandhali Shastri/PycharmProjects/ML/SignLanguageRecognition/CNN.py"
+2995
+WARNING:tensorflow:From C:/Users/Gandhali Shastri/PycharmProjects/ML/SignLanguageRecognition/CNN.py:155: softmax_cross_entropy_with_logits (from tensorflow.python.ops.nn_ops) is deprecated and will be removed in a future version.
+Instructions for updating:
+
+Future major versions of TensorFlow will allow gradients to flow
+into the labels input on backprop by default.
+
+See `tf.nn.softmax_cross_entropy_with_logits_v2`.
+
+starts
+step 0, training accuracy 0
+step 100, training accuracy 0.16
+step 200, training accuracy 0.56
+step 300, training accuracy 0.74
+step 400, training accuracy 0.76
+step 500, training accuracy 0.88
+step 600, training accuracy 0.96
+step 700, training accuracy 0.94
+step 800, training accuracy 1
+0.6828528072837633
+0.6828528072837633
+
+
+Process finished with exit code 0
